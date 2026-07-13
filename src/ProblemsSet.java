@@ -8,20 +8,20 @@ public class ProblemsSet {
 		 ProblemsSet set = new ProblemsSet(); //object created since all methods are instance methods
 		 System.out.print("Enter a number");
 		 //input values 
-//   	 int num = scanner.nextInt();
-//		 int num1 = scanner.nextInt(); 
-//		 int num2 = scanner.nextInt();
-//		 int num3 = scanner.nextInt();
-//		 String s = scanner.nextLine();
-//		 double num = scanner.nextDouble();
-//		 
-//		 System.out.println("How many numbers? ");
-//		 int size = scanner.nextInt();
-//		 int[] arr = new int[size];
-//		 for (int i = 0; i < size; i++) {
-//			 System.out.println("Enter number " + (i + 1) + ": ");
-//			 arr[i] = scanner.nextInt();
-//		 }
+   	 int num = scanner.nextInt();
+		 int num1 = scanner.nextInt(); 
+		 int num2 = scanner.nextInt();
+		 int num3 = scanner.nextInt();
+		 String s = scanner.nextLine();
+		 double num = scanner.nextDouble();
+		 
+		 System.out.println("How many numbers? ");
+		 int size = scanner.nextInt();
+		 int[] arr = new int[size];
+		 for (int i = 0; i < size; i++) {
+			 System.out.println("Enter number " + (i + 1) + ": ");
+			 arr[i] = scanner.nextInt();
+		 }
 
 		 
 //		 boolean isEven = set.isEven(num); //1
